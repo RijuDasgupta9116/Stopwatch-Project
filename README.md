@@ -6,7 +6,7 @@
 
 ### **Project Link:-**
 ```
-https://rijudasgupta9116.github.io/Stop-Watch-Project/
+https://rijudasgupta9116.github.io/Stopwatch-Project/
 ```
 
 #### **UI :-**
